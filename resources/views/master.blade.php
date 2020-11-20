@@ -23,6 +23,40 @@
    .custom-login{
        height: 500px;
        padding-top: 100px;
+    
+   }
+   img.slider-img{
+       height:400px;
+   }
+   .custom-product{
+       height:600px
+   }
+   .slider-text{
+       background-color:#ce151585
+   }
+   .trending-wrapper{
+       margin:30px;
+
+   }
+   .trending-item{
+       float:left;
+       width:20%;
+
+   }
+   .trending-image{
+       height: 100px;
+   }
+   .detail-img{
+       height:200px;
+   }
+   .search-box{
+       width:auto !important;
+
+   }
+   .cart-list-divider{
+       border-bottom: 1px solid #ccc;
+       margin-bottom: 20px;
+       padding-bottom: 20px;
    }
 
  </style>
